@@ -1,6 +1,6 @@
-const u32 gSurfablePokemonPic_Squirtle[] = INCBIN_U32("graphics/object_events/pics/pokemon/surfable/squirtle.4bpp");
-const u16 gSurfablePokemonPalette_Squirtle[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/squirtle.gbapal");
-const u16 gSurfablePokemonShinyPalette_Squirtle[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/squirtle_shiny.gbapal");
+const u32 gSurfablePokemonPic_Squirtle[] = INCBIN_U32("graphics/object_events/pics/pokemon/surfable/007_squirtle.4bpp");
+const u16 gSurfablePokemonPalette_Squirtle[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/007_squirtle.gbapal");
+const u16 gSurfablePokemonShinyPalette_Squirtle[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/007_squirtle_shiny.gbapal");
 
 const u32 gSurfablePokemonPic_Wartortle[] = INCBIN_U32("graphics/object_events/pics/pokemon/surfable/wartortle.4bpp");
 const u16 gSurfablePokemonPalette_Wartortle[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/wartortle.gbapal");
@@ -212,9 +212,9 @@ const u32 gSurfablePokemonPic_Marill[] = INCBIN_U32("graphics/object_events/pics
 const u16 gSurfablePokemonPalette_Marill[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/marill.gbapal");
 const u16 gSurfablePokemonShinyPalette_Marill[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/marill_shiny.gbapal");
 
-const u32 gSurfablePokemonPic_Azumarill[] = INCBIN_U32("graphics/object_events/pics/pokemon/surfable/azumarill.4bpp");
-const u16 gSurfablePokemonPalette_Azumarill[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/azumarill.gbapal");
-const u16 gSurfablePokemonShinyPalette_Azumarill[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/azumarill_shiny.gbapal");
+const u32 gSurfablePokemonPic_Azumarill[] = INCBIN_U32("graphics/object_events/pics/pokemon/surfable/0184_azumarill.4bpp");
+const u16 gSurfablePokemonPalette_Azumarill[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0184_azumarill.gbapal");
+const u16 gSurfablePokemonShinyPalette_Azumarill[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0184_azumarill_shiny.gbapal");
 
 const u32 gSurfablePokemonPic_Politoed[] = INCBIN_U32("graphics/object_events/pics/pokemon/surfable/politoed.4bpp");
 const u16 gSurfablePokemonPalette_Politoed[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/politoed.gbapal");
